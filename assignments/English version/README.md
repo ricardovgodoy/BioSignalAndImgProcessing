@@ -132,7 +132,7 @@ Introduction to wavelet transforms using PyWavelets (`pywt`). Visualizes Haar sc
 
 ## 🔬 Demonstrations
 
-### `Demonstração_EMG_en.ipynb` / `Demonstração_EMG (1)_en.ipynb` — EMG Gesture Recognition
+### `Demonstração_EMG (1)_en.ipynb` — EMG Gesture Recognition
 Hands-on demonstration using 8-channel surface EMG signals (1,200 Hz, g.tec g.USBamp, 0.5–100 Hz bandpass) acquired from a healthy subject performing three hand gestures: **full grasp**, **pinch**, and **rest**. Channels cover dorsal interosseous, opponens pollicis, abductor pollicis longus, finger flexors/extensors, and biceps brachii. After loading and plotting raw signals and DFT spectra for each gesture, students extract and tabulate eight time-domain features:
 
 | Feature | Abbreviation |
@@ -146,7 +146,6 @@ Hands-on demonstration using 8-channel surface EMG signals (1,200 Hz, g.tec g.US
 | Variance | VAR |
 | Log Detector | LogD |
 
-*(The two files are essentially the same notebook; the `(1)` version uses fully translated English labels throughout.)*
 
 ---
 
