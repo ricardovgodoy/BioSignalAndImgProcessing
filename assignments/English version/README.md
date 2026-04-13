@@ -1,4 +1,4 @@
-# 📡 Biosignal and Image Processing — English Version Assignments
+# Biosignal and Image Processing — English Version Assignments
 
 This folder contains the **English-language Jupyter notebooks** for the *Biosignal and Image Processing* course. The material follows a structured progression from foundational signal processing through advanced image analysis, with hands-on Python exercises throughout.
 
