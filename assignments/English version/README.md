@@ -21,8 +21,7 @@ This folder contains the **English-language Jupyter notebooks** for the *Biosign
 | `Aula_21_en.ipynb` | Image Restoration (Ch. 5) |
 | `Aula_22_en.ipynb` | Image Segmentation (Ch. 10) |
 | `Aula_23_en.ipynb` | Wavelets (Ch. 7) |
-| `Demonstração_EMG_en.ipynb` | EMG Demonstration — Gesture Recognition |
-| `Demonstração_EMG (1)_en.ipynb` | EMG Demonstration — Extended Version |
+| `Demonstração_EMG (1)_en.ipynb` | EMG Demonstration — Gesture Recognition |
 | `Extra_Aula_12_e_13_en.ipynb` | Extra — Speech Segmentation & AR Modeling |
 | `Exercícios_de_programação_1_en.ipynb` | Graded Assignment 1 — ECG Filter Design |
 | `Pratica_de_python_2_en.ipynb` | Graded Assignment 2 — EMG Gesture Classification |
